@@ -1,0 +1,12 @@
+# Ignore sensitive credentials
+config.toml
+
+# Ignore virtual environment
+venv/
+
+# Ignore outputs
+output/
+
+# Ignore all inputs except template
+input/*
+!playlists.template.txt

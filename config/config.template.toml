@@ -1,0 +1,7 @@
+[credentials]
+plex_url = "{URL}"
+plex_token = "{TOKEN}"
+
+[directories]
+input_dir = "input"
+output_dir = "output"
